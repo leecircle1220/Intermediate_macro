@@ -49,10 +49,10 @@ Please note that this is a personal note collection, not an official course webs
 | Field | Details |
 |:---|:---|
 | **Title** | *Macroeconomics* |
-| **Author** | *Olivier Blanchard* |
-| **Edition** | *8th Edition* |
-| **Publisher** | *Pearson* |
-| **Year** | *2021* |
+| **Author** | Olivier Blanchard |
+| **Edition** | 8th Edition |
+| **Publisher** | Pearson |
+| **Year** | 2021 |
 
 ---
 
